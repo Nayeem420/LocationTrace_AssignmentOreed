@@ -9,5 +9,7 @@ Suppose a Person is in an emergency situation, he/she called for help over telep
 3. In key.py the reference of API_Key is just given. path ->(AssignmentO\src\key.py)
 
 4. script.js is linked with the other file. path ->(AssignmentO\src\AssignmentOreed\static\js\script.js)
+5. Also some change has been done in the built in django templates, for instances, in settings.py (AssignmentO\src\AssignmentOreed\settings.py) , in views.py(AssignmentO\src\blog\views.py), in urls.py(AssignmentO\src\AssignmentOreed\urls.py) etc.
+
 
 Just the demo code is given here
